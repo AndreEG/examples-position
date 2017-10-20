@@ -1,0 +1,15 @@
+.text{
+  width: 70%;
+  position: static;
+  margin-left: 13%;
+}
+
+#box_2 {
+  text-align: center;
+  height: 50px;
+  background-color: orange;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}

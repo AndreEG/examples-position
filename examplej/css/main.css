@@ -1,0 +1,56 @@
+body{
+  background-color: skyblue;
+}
+.menu{
+  box-sizing: border-box;
+  position: absolute;
+  top: 0%;
+  left: 25%;
+  width: 900px;
+  height: 50px;
+  background-color: yellowgreen;
+}
+a{
+  display: inline-block;
+  height: 50px;
+  color: white;
+  text-decoration: none;
+  box-sizing: border-box;
+  border: 1px solid green;
+
+  padding: 15px 20px;
+}
+.parrafos{
+  box-sizing: border-box;
+  position: absolute;
+  top: 50px;
+  left: 25%;
+  background-color: white;
+  width: 900px;
+}
+.text{
+  padding-right: 210px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+.lateral {
+  background-color: orange;
+  box-sizing: border-box;
+  position: absolute;
+  top: 150px;
+  left: 65%;
+  width: 250px;
+}
+.lat{
+  color: white;
+  padding: 30px;
+}
+.copyright{
+  width: 900px;
+  height: 50px;
+  background-color: pink;
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 0;
+  left: 25%;
+}
